@@ -1,0 +1,2 @@
+import nameran
+nameran.getRandomName()
